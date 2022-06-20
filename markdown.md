@@ -1,6 +1,6 @@
-# Hi I´m Mate
+# Hi, I´m Mate
 
-**myFavorites in a short-form**
+**that`s my life in a short-form**
 
 ## Work
 - Music
